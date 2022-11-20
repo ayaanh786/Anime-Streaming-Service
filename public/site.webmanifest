@@ -1,6 +1,6 @@
 {
-  "name": "Animeflix",
-  "short_name": "Animeflix",
+  "name": "Rias-Anime",
+  "short_name": "Rias",
   "icons": [
     {
       "src": "/icons/android-chrome-192x192.png",
@@ -19,7 +19,7 @@
   "display_override": ["fullscreen", "minimal-ui"],
   "scope": "/",
   "theme_color": "#0F0F0F",
-  "description": "Watch anime shows, tv, movies for free without ads on your mobile, tablet, or pc",
+  "description": "Watch anime shows, tv, movies for free without ads on your mobile, tablet, or pc on Rias. Rias anime site is based off animflix and inspired by high school dxd character.",
   "screenshots": [
     {
       "src": "/preview.png",

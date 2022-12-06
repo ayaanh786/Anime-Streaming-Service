@@ -20,7 +20,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <DefaultSeo
-        title="Rias - Watch animes without ads"
+        title="Hussain-Anime - Watch animes without ads"
         description="Watch anime shows, tv, movies for free without ads on your mobile, tablet, or pc"
         additionalMetaTags={[
           {
